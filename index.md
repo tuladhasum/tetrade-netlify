@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This is the new jekyll site
+THis is a new jekyol site
